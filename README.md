@@ -9,9 +9,14 @@ Working knowledge of full-stack web applications
 
 💼 Projects:
 
-Automated Dental Caries Detection: Using Python, TensorFlow, YOLOv5, OpenCV, and random forests
+Automated Dental Caries Detection
+Using: Python, TensorFlow, YOLOv5, OpenCV, and random forests
 
-Gym Management System: Built with HTML, CSS, Python, and SQL
+Gym Management System
+Using: HTML, CSS, Python, and SQL
+
+Test Taking Platform
+Using: PHP, HTML, SQL
 
 🤝 Open to collaborating on:
 
