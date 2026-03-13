@@ -1,28 +1,35 @@
-Hi there! 👋 I'm Mehul Singh
-I'm a recent graduate and an aspiring software developer with a passion for learning and exploring new technologies. While I'm still growing my skill set, I'm excited about the journey of continuous learning and building meaningful projects.
+Hi 👋 I'm Mehul Singh
+Software Developer with experience in backend and full-stack development.  
+I enjoy building scalable APIs, web applications, and solving real-world problems through code.
+
+Tech Stack: Java | Node.js | SQL | JavaScript | React | REST APIs | Git
 
 🌱 Currently learning:
+• Backend development with Node.js and REST APIs  
+• Machine Learning using Python, TensorFlow, and OpenCV  
+• Database design and SQL optimization
 
-Python, TensorFlow, and OpenCV for image processing and machine learning
-Java, C, Python and SQL for backend development
-Working knowledge of full-stack web applications
 
 💼 Projects:
+• Identity Reconciliation API – Backend service that links customer identities using email and phone number matching. Built with Node.js, Express, and SQL.
 
-Automated Dental Caries Detection
-Using: Python, TensorFlow, YOLOv5, OpenCV, and random forests
+• Automated Dental Caries Detection – Machine learning system using YOLOv5, TensorFlow, and OpenCV to detect dental caries from X-ray images.
 
-Gym Management System
-Using: HTML, CSS, Python, and SQL
+• Gym Management System – Web application for managing gym memberships, trainers, attendance, and payments.
 
-Test Taking Platform
-Using: PHP, HTML, SQL
+• Test Taking Platform – Web platform for creating and managing online examinations.
 
-🤝 Open to collaborating on:
 
-Interesting web development projects
-Machine learning projects
-Any open-source projects that help me grow as a developer
+🌐 Live Project
+Identity Reconciliation API  
+https://bitespeed-identity-mehul.onrender.com/identify
+
+
+🤝 Open to collaborate on
+• Backend development projects  
+• Web development applications  
+• Machine learning projects  
+• Open source contributions
 
 📫 Reach me at: mehulsingh301@gmail.com
 
