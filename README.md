@@ -5,12 +5,14 @@ I enjoy building scalable APIs, web applications, and solving real-world problem
 Tech Stack: Java | Node.js | SQL | JavaScript | React | REST APIs | Git
 
 🌱 Currently learning:
+
 • Backend development with Node.js and REST APIs  
 • Machine Learning using Python, TensorFlow, and OpenCV  
 • Database design and SQL optimization
 
 
 💼 Projects:
+
 • Identity Reconciliation API – Backend service that links customer identities using email and phone number matching. Built with Node.js, Express, and SQL.
 
 • Automated Dental Caries Detection – Machine learning system using YOLOv5, TensorFlow, and OpenCV to detect dental caries from X-ray images.
@@ -21,11 +23,13 @@ Tech Stack: Java | Node.js | SQL | JavaScript | React | REST APIs | Git
 
 
 🌐 Live Project
+
 Identity Reconciliation API  
 https://bitespeed-identity-mehul.onrender.com/identify
 
 
 🤝 Open to collaborate on
+
 • Backend development projects  
 • Web development applications  
 • Machine learning projects  
