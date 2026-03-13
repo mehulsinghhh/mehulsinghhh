@@ -2,7 +2,19 @@ Hi 👋 I'm Mehul Singh
 Software Developer with experience in backend and full-stack development.  
 I enjoy building scalable APIs, web applications, and solving real-world problems through code.
 
-Tech Stack: Java | Node.js | SQL | JavaScript | React | REST APIs | Git
+Tech Stack
+
+Languages
+Java | JavaScript | TypeScript | Python | SQL
+
+Backend
+Node.js | Express.js | REST APIs | PHP
+
+Frontend
+HTML | CSS | JavaScript
+
+Tools
+Git | GitHub | SQLite | MySQL
 
 🌱 Currently learning:
 
