@@ -5,15 +5,19 @@ I enjoy building scalable APIs, web applications, and solving real-world problem
 Tech Stack
 
 Languages
+
 Java | JavaScript | TypeScript | Python | SQL
 
 Backend
+
 Node.js | Express.js | REST APIs | PHP
 
 Frontend
+
 HTML | CSS | JavaScript
 
 Tools
+
 Git | GitHub | SQLite | MySQL
 
 🌱 Currently learning:
