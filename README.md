@@ -4,20 +4,16 @@ I enjoy building scalable APIs, web applications, and solving real-world problem
 
 Tech Stack
 
-Languages
-
+Languages:
 Java | JavaScript | TypeScript | Python | SQL
 
-Backend
-
+Backend:
 Node.js | Express.js | REST APIs | PHP
 
-Frontend
-
+Frontend:
 HTML | CSS | JavaScript
 
-Tools
-
+Tools:
 Git | GitHub | SQLite | MySQL
 
 🌱 Currently learning:
