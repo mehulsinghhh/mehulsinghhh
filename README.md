@@ -43,7 +43,7 @@ Building secure backend systems, modern web applications, and AI-powered softwar
 
 **Frontend**
 
-https://careerflyght-fxzr1h0to-mehulsinghhhs-projects.vercel.app/
+https://careerflyght-fxzr1h0to-mehulsinghhhs-projects.vercel.app/whatcanibe
 
 **Repositories**
 
