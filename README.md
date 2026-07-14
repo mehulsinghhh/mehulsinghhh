@@ -1,59 +1,80 @@
-# Hi there, I'm Mehul Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+<div align="center">
 
-<h3 align="center">Software Engineer • Full Stack Developer • Node.js • TypeScript • Next.js</h3>
+# Mehul Singh
 
-<p align="center">
-Building scalable backend systems, modern web applications, and AI-powered software.
-</p>
+### Software Engineer • Full Stack Developer
 
-<p align="center">
+Building secure backend systems, modern web applications, and AI-powered software.
+
+<br>
+
 <a href="https://www.linkedin.com/in/mehulsinghhh/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:mehulsingh301@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/mehulsinghhh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 </a>
-</p>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 Building CareerFlyght
 
-I'm a Full Stack Software Engineer from India who enjoys designing secure backend systems and building products that solve real-world problems.
+> A production-style mentorship platform connecting students with experienced professionals through secure booking workflows, role-based access control, and scalable backend architecture.
 
-My primary focus is building scalable applications using the modern JavaScript and TypeScript ecosystem while continuously improving my understanding of backend architecture, databases, authentication, and software design.
+### What I've built
 
-Recently I've been building **CareerFlyght**, a production-style mentorship platform connecting students with industry professionals.
+* 🔐 JWT Authentication
+* 🛡️ Role-Based Access Control (RBAC)
+* 📅 Mentor Booking Platform
+* 👨‍🏫 Mentor Discovery
+* 👤 Student & Mentor Dashboards
+* ⚡ Prisma ORM + MySQL
+* 🌐 REST API Architecture
+* 📱 Responsive Next.js Frontend
+
+### Live Project
+
+**Frontend**
+
+https://careerflyght-fxzr1h0to-mehulsinghhhs-projects.vercel.app/
+
+**Repositories**
+
+Frontend → https://github.com/mehulsinghhh/careerflyght-frontend
+
+Backend → https://github.com/mehulsinghhh/CareerFlyght-Backend-v2
 
 ---
 
-# 🚀 Currently Working On
+# 👋 About Me
 
-* Building **CareerFlyght**
-* Designing scalable REST APIs
-* Backend architecture with Node.js & TypeScript
-* Secure authentication & authorization
-* Learning Docker, Cloud Deployment & System Design
+I'm a Full Stack Software Engineer passionate about building applications that solve real problems.
+
+My primary focus is backend engineering with **Node.js**, **TypeScript**, **Express**, and **Prisma**, while creating modern user experiences with **React** and **Next.js**.
+
+I enjoy designing secure APIs, architecting scalable systems, and turning ideas into production-ready software.
 
 ---
 
-# 🛠 Tech Stack
+# ⚙️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,sql"/>
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 </p>
 
 ### Backend
@@ -62,195 +83,97 @@ Recently I've been building **CareerFlyght**, a production-style mentorship plat
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### Databases & ORM
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-* Prisma ORM
-* SQLite
+**Also**
 
-### AI / Machine Learning
+Prisma • SQLite • REST APIs • JWT
 
-* TensorFlow
-* OpenCV
-* YOLOv5
-* FastAPI
-* LangGraph
+### AI
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
-</p>
+TensorFlow • OpenCV • YOLOv5 • FastAPI • LangGraph
 
 ---
 
-# ⭐ Featured Projects
+# 📌 Featured Projects
 
 ## 🚀 CareerFlyght
 
-A modern career mentorship platform designed to connect students with experienced mentors through secure booking workflows and role-based dashboards.
+Production-ready mentorship platform built with Next.js, Node.js, Express, Prisma and MySQL.
 
-### Highlights
-
-* JWT Authentication
-* Role-Based Access Control (RBAC)
-* Secure Booking System
-* Mentor Discovery
-* Student & Mentor Dashboards
-* Booking Ownership Protection
-* Prisma ORM
-* MySQL
-* TypeScript
-* Express.js
-* Next.js
-* Responsive UI
-
-### Repositories
-
-Frontend
-
-https://github.com/mehulsinghhh/careerflyght-frontend
-
-Backend
-
-https://github.com/mehulsinghhh/CareerFlyght-Backend-v2
-
-Live Demo
-
-https://careerflyght-fxzr1h0to-mehulsinghhhs-projects.vercel.app/
+`Next.js` `TypeScript` `Express` `Prisma` `MySQL`
 
 ---
 
 ## 🔐 Identity Reconciliation API
 
-REST API built for the Bitespeed Backend Task.
+Backend service implementing identity reconciliation with efficient primary-secondary contact resolution.
 
-Features
-
-* Identity Resolution
-* Primary / Secondary Contact Mapping
-* SQLite Database
-* TypeScript
-* Express
-* RESTful Design
-
-Repository
-
-https://github.com/mehulsinghhh/bitespeed-identity-reconciliation
+`Node.js` `TypeScript` `SQLite`
 
 ---
 
 ## 📚 Book Review API
 
-RESTful backend service built using Node.js and Express.
+RESTful backend with authentication, CRUD operations and database integration.
 
-Features
-
-* CRUD Operations
-* Authentication
-* REST API Design
-* MySQL Integration
-
-Repository
-
-https://github.com/mehulsinghhh/book-api
+`Node.js` `Express` `MySQL`
 
 ---
 
 ## 🦷 Automated Dental Caries Detection
 
-Deep Learning project for automated detection of dental caries using computer vision.
+Computer vision application for dental caries detection using deep learning.
 
-Technologies
-
-* TensorFlow
-* OpenCV
-* YOLOv5
-* Python
-
-Repository
-
-https://github.com/mehulsinghhh/Automated-Dental-Caries-Detection
+`Python` `TensorFlow` `YOLOv5` `OpenCV`
 
 ---
 
 ## 📝 Test Taking Platform
 
-Full-stack online examination platform developed during internship.
+Online examination platform featuring authentication, timed assessments and automated scoring.
 
-Features
-
-* Authentication
-* Timed Exams
-* Automatic Scoring
-* MySQL
-* PHP
-* JavaScript
-
-Repository
-
-https://github.com/mehulsinghhh/Test-Taking-Platform
+`PHP` `MySQL` `JavaScript`
 
 ---
 
-# 📈 GitHub Analytics
+# 🌱 Currently Learning
 
-<p align="center">
+* Docker
+* Cloud Deployment
+* System Design
+* Scalable Backend Architecture
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehulsinghhh&show_icons=true&theme=github_dark&hide_border=true"/>
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulsinghhh&layout=compact&theme=github_dark&hide_border=true"/>
+<div align="center">
 
-</p>
-
-<p align="center">
+## 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=mehulsinghhh&theme=github-dark&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehulsinghhh&theme=github-dark&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 💡 Engineering Interests
+<div align="center">
 
-* Backend Engineering
-* Distributed Systems
-* REST API Design
-* Authentication & Security
-* Database Design
-* Software Architecture
-* AI-powered Applications
-* Full Stack Development
-
----
-
-# 📫 Let's Connect
-
-<p align="left">
-
-<a href="mailto:mehulsingh301@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### Let's Connect
 
 <a href="https://www.linkedin.com/in/mehulsinghhh/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://github.com/mehulsinghhh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:mehulsingh301@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-</p>
+</div>
 
 ---
 
-> *"I enjoy designing secure backend systems, building scalable APIs, and creating software that solves meaningful real-world problems."*
+> **"I enjoy building secure backend systems, scalable APIs, and software that solves meaningful real-world problems."**
