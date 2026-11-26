@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Mehul Singh 👋</h1>
 
-<h3 align="center">Backend-Focused Software Developer | Building APIs & Full-Stack Applications</h3>
+<h3 align="center">Backend-Focused Software Developer | Designing, developing & understanding software systems</h3>
 
 <p align="center">
   <a href="https://github.com/mehulsinghhh">
