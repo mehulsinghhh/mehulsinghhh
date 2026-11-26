@@ -1,179 +1,69 @@
-<div align="center">
+# Hey, I'm Mehul Singh 👋
 
-# Mehul Singh
+### Backend Developer | Building APIs & Scalable Applications
 
-### Software Engineer • Full Stack Developer
+I'm a Computer Science graduate interested in backend engineering, application architecture, and solving practical software problems.
 
-Building secure backend systems, modern web applications, and AI-powered software.
+I work primarily with **TypeScript, Node.js, Express, and SQL databases**, building applications that involve authentication, API development, database management, and backend workflows.
 
-<br>
-
-<a href="https://www.linkedin.com/in/mehulsinghhh/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:mehulsingh301@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/mehulsinghhh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-</div>
+Currently focused on becoming a stronger software engineer through hands-on development, debugging, and understanding the systems I build.
 
 ---
 
-# 🚀 Building CareerFlyght
+### ⚙️ Tech Stack
 
-> A production-style mentorship platform connecting students with experienced professionals through secure booking workflows, role-based access control, and scalable backend architecture.
+**Languages**
 
-### What I've built
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-* 🔐 JWT Authentication
-* 🛡️ Role-Based Access Control (RBAC)
-* 📅 Mentor Booking Platform
-* 👨‍🏫 Mentor Discovery
-* 👤 Student & Mentor Dashboards
-* ⚡ Prisma ORM + MySQL
-* 🌐 REST API Architecture
-* 📱 Responsive Next.js Frontend
+**Backend & Databases**
 
-### Live Project
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Frontend**
+**Tools & Other Technologies**
 
-https://careerflyght-fxzr1h0to-mehulsinghhhs-projects.vercel.app/whatcanibe
-
-**Repositories**
-
-Frontend → https://github.com/mehulsinghhh/careerflyght-frontend
-
-Backend → https://github.com/mehulsinghhh/CareerFlyght-Backend-v2
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ---
 
-# 👋 About Me
+### 🚀 Featured Projects
 
-I'm a Full Stack Software Engineer passionate about building applications that solve real problems.
-
-My primary focus is backend engineering with **Node.js**, **TypeScript**, **Express**, and **Prisma**, while creating modern user experiences with **React** and **Next.js**.
-
-I enjoy designing secure APIs, architecting scalable systems, and turning ideas into production-ready software.
+| Project | Description | Technologies |
+|---|---|---|
+| [HireFlow](https://github.com/mehulsinghhh/hireflow) | Backend-focused job application platform with authentication, caching and asynchronous processing. | TypeScript, Express, PostgreSQL, Prisma, Redis |
+| [CareerFlyght](https://github.com/mehulsinghhh/CareerFlyght-Backend-v2) | Career development platform backend with mentor onboarding, bookings and role-based access. | Node.js, Express, Prisma, MySQL |
+| [AI-First CRM](https://github.com/mehulsinghhh/ai-first-crm-hcp) | AI-assisted CRM exploring agent-based workflows and structured interaction management. | Python, FastAPI, LangGraph |
+| [Dental Caries Detection](https://github.com/mehulsinghhh/Automated-Dental-Caries-Detection) | Computer vision project for dental caries detection using deep learning. | Python, YOLOv5, TensorFlow, OpenCV |
 
 ---
 
-# ⚙️ Tech Stack
+### 🌱 Currently Focused On
 
-### Languages
+- Writing better and more maintainable backend code.
+- Understanding database design and query optimization.
+- Improving API architecture, testing, and debugging.
+- Learning system design and backend scalability.
+- Exploring practical AI and LLM integrations.
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,sql"/>
+---
+
+### 🤝 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehulsinghhh)
+
+---
+
+<p align="center">
+  <i>Learning by building, improving through practice.</i>
 </p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-**Also**
-
-Prisma • SQLite • REST APIs • JWT
-
-### AI
-
-TensorFlow • OpenCV • YOLOv5 • FastAPI • LangGraph
-
----
-
-# 📌 Featured Projects
-
-## 🚀 CareerFlyght
-
-Production-ready mentorship platform built with Next.js, Node.js, Express, Prisma and MySQL.
-
-`Next.js` `TypeScript` `Express` `Prisma` `MySQL`
-
----
-
-## 🔐 Identity Reconciliation API
-
-Backend service implementing identity reconciliation with efficient primary-secondary contact resolution.
-
-`Node.js` `TypeScript` `SQLite`
-
----
-
-## 📚 Book Review API
-
-RESTful backend with authentication, CRUD operations and database integration.
-
-`Node.js` `Express` `MySQL`
-
----
-
-## 🦷 Automated Dental Caries Detection
-
-Computer vision application for dental caries detection using deep learning.
-
-`Python` `TensorFlow` `YOLOv5` `OpenCV`
-
----
-
-## 📝 Test Taking Platform
-
-Online examination platform featuring authentication, timed assessments and automated scoring.
-
-`PHP` `MySQL` `JavaScript`
-
----
-
-# 🌱 Currently Learning
-
-* Docker
-* Cloud Deployment
-* System Design
-* Scalable Backend Architecture
-
----
-
-<div align="center">
-
-## 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=mehulsinghhh&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-### Let's Connect
-
-<a href="https://www.linkedin.com/in/mehulsinghhh/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:mehulsingh301@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
----
-
-> **"I enjoy building secure backend systems, scalable APIs, and software that solves meaningful real-world problems."**
